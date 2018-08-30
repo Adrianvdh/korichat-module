@@ -12,6 +12,5 @@
     <modules>
         <module>modules/korichat-server</module>
         <module>modules/korichat-client</module>
-        <module>modules/korichat-common</module>
     </modules>
 </project>
