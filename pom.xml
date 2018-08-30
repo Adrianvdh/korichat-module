@@ -11,9 +11,9 @@
     <packaging>pom</packaging>
     <description>KoriChat project module</description>
     <modules>
-        <module>modules/chat-client</module>
-        <module>modules/chat-server</module>
-        <module>modules/common</module>
+        <module>modules/korichat-client</module>
+        <module>modules/korichat-server</module>
+        <module>modules/korichat-common</module>
     </modules>
 
 </project>
