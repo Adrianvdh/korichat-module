@@ -1,6 +1,6 @@
 [submodule "modules/korichat-server"]
 	path = modules/korichat-server
-	url = git@github.com:Adrianvdh/korichat-module.git
+	url = git@github.com:Adrianvdh/korichat-server.git
 [submodule "modules/korichat-client"]
 	path = modules/korichat-client
 	url = git@github.com:Adrianvdh/korichat-client.git
